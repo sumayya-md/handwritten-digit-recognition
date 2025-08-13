@@ -1,13 +1,5 @@
-<<<<<<< HEAD
-streamlit==1.26.0
-=======
-
-streamlit==1.26.0
-pandas==2.1.1
->>>>>>> 220191c91c6cddc71fc17668fd2fcbbe498822cf
-tensorflow==2.13.0
-streamlit-drawable-canvas==0.10.0
-pillow==10.0.0
-numpy==1.26.0
-matplotlib==3.8.0
-opencv-python-headless==4.8.1.78
+streamlit
+tensorflow
+numpy
+pillow
+streamlit-drawable-canvas
