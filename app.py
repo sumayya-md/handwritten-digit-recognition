@@ -63,12 +63,8 @@ if mode == "Draw":
     st.markdown(
         """
         <style>
-        canvas {
-            border: none !important;
-        }
-        div[data-testid="stCanvasToolbar"] {
-            display: none;
-        }
+        canvas { border: none !important; }
+        div[data-testid="stCanvasToolbar"] { display: none; }
         </style>
         """,
         unsafe_allow_html=True
