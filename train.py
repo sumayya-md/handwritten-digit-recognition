@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 import os
 import numpy as np
 from tensorflow.keras import layers, models
@@ -40,7 +40,7 @@ model.fit(x_train, y_train, validation_data=(x_test, y_test), epochs=5, batch_si
 # Save model
 model.save("models/mnist_cnn.h5")
 print("✅ Model trained and saved at models/mnist_cnn.h5")
-=======
+
 import os
 import numpy as np
 from tensorflow.keras import layers, models
@@ -82,4 +82,3 @@ model.fit(x_train, y_train, validation_data=(x_test, y_test), epochs=5, batch_si
 # Save model
 model.save("models/mnist_cnn.h5")
 print("✅ Model trained and saved at models/mnist_cnn.h5")
->>>>>>> 1afc2bcad1b9a12e754376e56d32b4832288a035
