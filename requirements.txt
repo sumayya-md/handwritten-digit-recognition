@@ -1,6 +1,14 @@
+<<<<<<< HEAD
 streamlit
 tensorflow
 streamlit-drawable-canvas
 pillow
 numpy
+=======
+streamlit
+tensorflow
+streamlit-drawable-canvas
+pillow
+numpy
+>>>>>>> 1afc2bcad1b9a12e754376e56d32b4832288a035
 opencv-python-headless
