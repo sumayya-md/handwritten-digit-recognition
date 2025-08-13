@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 streamlit==1.26.0
+=======
+
+streamlit==1.26.0
+pandas==2.1.1
+>>>>>>> 220191c91c6cddc71fc17668fd2fcbbe498822cf
 tensorflow==2.13.0
 streamlit-drawable-canvas==0.10.0
 pillow==10.0.0
