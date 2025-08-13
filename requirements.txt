@@ -5,5 +5,5 @@ tensorflow
 streamlit-drawable-canvas
 pillow
 numpy
-matplot lib
+matplotlib
 opencv-python-headless
